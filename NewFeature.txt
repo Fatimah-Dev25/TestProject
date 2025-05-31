@@ -1,0 +1,2 @@
+i added new feature to our project
+this feature is recolor header and footer
